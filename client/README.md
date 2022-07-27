@@ -1,0 +1,1 @@
+# this is an svelte frontend app for future mail
