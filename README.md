@@ -1,0 +1,1 @@
+With this tool you can send a mail to future yourself
